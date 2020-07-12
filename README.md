@@ -71,11 +71,10 @@ target 'Runner' do
 ```dart
 import 'package:tmap_map_fluttify/tmap_map_fluttify.dart';
 ```
-
 ## 社区
-| QQ2群 | QQ1群(已满) |
-| :----------: | :----------: |
-| 加入QQ群讨论 <br/> <img src="https://github.com/fluttify-project/fluttify-project/blob/master/resources/qrcode_1593774649831.jpg?raw=true" height="300"> |加入QQ群讨论 <br/> <img src="https://github.com/fluttify-project/fluttify-project/blob/master/resources/1593774713224_temp_qrcode_share_9993.png?raw=true" height="300"> | 
+| QQ群 |
+| :----------: |
+| <img src="https://github.com/fluttify-project/fluttify-project/blob/master/resources/1593774713224_temp_qrcode_share_9993.png?raw=true" height="300"> | 
 
 ## 社区版与专业版
 |       | 社区版 | 专业版 |
