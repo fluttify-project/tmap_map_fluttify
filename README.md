@@ -4,11 +4,9 @@
 
 [![pub package](https://img.shields.io/pub/v/tmap_map_fluttify.svg)](https://pub.Flutter-io.cn/packages/tmap_map_fluttify)
 
-**专业版为付费插件, 如有需要请联系qq 382146139**
-
-**专业版为付费插件, 如有需要请联系qq 382146139**
-
-**专业版为付费插件, 如有需要请联系qq 382146139**
+**专业版为付费插件, 如有需要请联系qq 382146139**<br/>
+**专业版为付费插件, 如有需要请联系qq 382146139**<br/>
+**专业版为付费插件, 如有需要请联系qq 382146139**<br/>
 
 # Fluttify系列插件
 |  名称  | 描述 | 仓库 |
