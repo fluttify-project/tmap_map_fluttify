@@ -52,23 +52,15 @@ dependencies:
 <key>io.flutter.embedded_views_preview</key>
 <string>YES</string>
 ```
-2. 如果是swift项目(flutter创建项目时默认), 需要注释掉Podfile中的`use_frameworks!`, 如下:
-```ruby
-target 'Runner' do
-  # use_frameworks!
-  use_modular_headers!
-
-  # Flutter Pod
-...
-```
 
 ## 使用
-参考[wiki](https://github.com/fluttify-project/tmap_map_fluttify/wiki/_new).
+参考[wiki](https://github.com/fluttify-project/tmap_map_fluttify/wiki).
 
 ## 导入
 ```dart
 import 'package:tmap_map_fluttify/tmap_map_fluttify.dart';
 ```
+
 ## 社区
 | QQ群 |
 | :----------: |
