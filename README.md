@@ -6,6 +6,8 @@
 
 [![pub package](https://img.shields.io/pub/v/tmap_map_fluttify.svg)](https://pub.Flutter-io.cn/packages/tmap_map_fluttify)
 
+[demo apk demo apk demo apk](https://github.com/fluttify-project/fluttify-project/raw/master/resources/tmap_map_fluttify/demo.apk)
+
 **专业版为付费插件, 如有需要请联系qq 382146139**<br/>
 **专业版为付费插件, 如有需要请联系qq 382146139**<br/>
 **专业版为付费插件, 如有需要请联系qq 382146139**<br/>
